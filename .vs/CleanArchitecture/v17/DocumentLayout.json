@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Dat\\CleanArchitecture\\CleanArchitecture\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{73CA61BE-0AC2-4F30-8A7B-E4EFFD2063E0}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|d:\\dat\\cleanarchitecture\\cleanarchitecture\\cleanarchitecture.application\\features\\leavetype\\queries\\getleavetypedetails\\getleavetypedetailsqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73CA61BE-0AC2-4F30-8A7B-E4EFFD2063E0}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|solutionrelative:cleanarchitecture.application\\features\\leavetype\\queries\\getleavetypedetails\\getleavetypedetailsqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73CA61BE-0AC2-4F30-8A7B-E4EFFD2063E0}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|d:\\dat\\cleanarchitecture\\cleanarchitecture\\cleanarchitecture.application\\features\\leavetype\\queries\\getallleavetypes\\getleavetypesqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73CA61BE-0AC2-4F30-8A7B-E4EFFD2063E0}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|solutionrelative:cleanarchitecture.application\\features\\leavetype\\queries\\getallleavetypes\\getleavetypesqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73CA61BE-0AC2-4F30-8A7B-E4EFFD2063E0}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|d:\\dat\\cleanarchitecture\\cleanarchitecture\\cleanarchitecture.application\\features\\leavetype\\queries\\getleavetypedetails\\leavetypedetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73CA61BE-0AC2-4F30-8A7B-E4EFFD2063E0}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|solutionrelative:cleanarchitecture.application\\features\\leavetype\\queries\\getleavetypedetails\\leavetypedetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8964A632-1D4A-4535-A925-F5D24255E96C}|CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj|d:\\dat\\cleanarchitecture\\cleanarchitecture\\cleanarchitecture.domain\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8964A632-1D4A-4535-A925-F5D24255E96C}|CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj|solutionrelative:cleanarchitecture.domain\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8964A632-1D4A-4535-A925-F5D24255E96C}|CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj|d:\\dat\\cleanarchitecture\\cleanarchitecture\\cleanarchitecture.domain\\leaveallocation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8964A632-1D4A-4535-A925-F5D24255E96C}|CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj|solutionrelative:cleanarchitecture.domain\\leaveallocation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8964A632-1D4A-4535-A925-F5D24255E96C}|CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj|d:\\dat\\cleanarchitecture\\cleanarchitecture\\cleanarchitecture.domain\\leaverequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8964A632-1D4A-4535-A925-F5D24255E96C}|CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj|solutionrelative:cleanarchitecture.domain\\leaverequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8964A632-1D4A-4535-A925-F5D24255E96C}|CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj|d:\\dat\\cleanarchitecture\\cleanarchitecture\\cleanarchitecture.domain\\leavetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8964A632-1D4A-4535-A925-F5D24255E96C}|CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj|solutionrelative:cleanarchitecture.domain\\leavetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73CA61BE-0AC2-4F30-8A7B-E4EFFD2063E0}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|d:\\dat\\cleanarchitecture\\cleanarchitecture\\cleanarchitecture.application\\features\\leavetype\\queries\\getallleavetypes\\getleavetypesquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73CA61BE-0AC2-4F30-8A7B-E4EFFD2063E0}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|solutionrelative:cleanarchitecture.application\\features\\leavetype\\queries\\getallleavetypes\\getleavetypesquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73CA61BE-0AC2-4F30-8A7B-E4EFFD2063E0}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|d:\\dat\\cleanarchitecture\\cleanarchitecture\\cleanarchitecture.application\\contracts\\ileaverequestrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73CA61BE-0AC2-4F30-8A7B-E4EFFD2063E0}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|solutionrelative:cleanarchitecture.application\\contracts\\ileaverequestrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73CA61BE-0AC2-4F30-8A7B-E4EFFD2063E0}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|d:\\dat\\cleanarchitecture\\cleanarchitecture\\cleanarchitecture.application\\contracts\\ileavetyperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73CA61BE-0AC2-4F30-8A7B-E4EFFD2063E0}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|solutionrelative:cleanarchitecture.application\\contracts\\ileavetyperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73CA61BE-0AC2-4F30-8A7B-E4EFFD2063E0}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|d:\\dat\\cleanarchitecture\\cleanarchitecture\\cleanarchitecture.application\\cleanarchitecture.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{73CA61BE-0AC2-4F30-8A7B-E4EFFD2063E0}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|solutionrelative:cleanarchitecture.application\\cleanarchitecture.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73CA61BE-0AC2-4F30-8A7B-E4EFFD2063E0}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|d:\\dat\\cleanarchitecture\\cleanarchitecture\\cleanarchitecture.application\\mappingprofiles\\leavetypeprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73CA61BE-0AC2-4F30-8A7B-E4EFFD2063E0}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|solutionrelative:cleanarchitecture.application\\mappingprofiles\\leavetypeprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "D:\\Dat\\CleanArchitecture\\CleanArchitecture\\CleanArchitecture.Domain\\Common\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Domain\\Common\\BaseEntity.cs",
+              "ToolTip": "D:\\Dat\\CleanArchitecture\\CleanArchitecture\\CleanArchitecture.Domain\\Common\\BaseEntity.cs",
+              "RelativeToolTip": "CleanArchitecture.Domain\\Common\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T08:14:01.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LeaveAllocation.cs",
+              "DocumentMoniker": "D:\\Dat\\CleanArchitecture\\CleanArchitecture\\CleanArchitecture.Domain\\LeaveAllocation.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Domain\\LeaveAllocation.cs",
+              "ToolTip": "D:\\Dat\\CleanArchitecture\\CleanArchitecture\\CleanArchitecture.Domain\\LeaveAllocation.cs",
+              "RelativeToolTip": "CleanArchitecture.Domain\\LeaveAllocation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T08:13:59.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LeaveRequest.cs",
+              "DocumentMoniker": "D:\\Dat\\CleanArchitecture\\CleanArchitecture\\CleanArchitecture.Domain\\LeaveRequest.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Domain\\LeaveRequest.cs",
+              "ToolTip": "D:\\Dat\\CleanArchitecture\\CleanArchitecture\\CleanArchitecture.Domain\\LeaveRequest.cs",
+              "RelativeToolTip": "CleanArchitecture.Domain\\LeaveRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T08:13:58.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LeaveType.cs",
+              "DocumentMoniker": "D:\\Dat\\CleanArchitecture\\CleanArchitecture\\CleanArchitecture.Domain\\LeaveType.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Domain\\LeaveType.cs",
+              "ToolTip": "D:\\Dat\\CleanArchitecture\\CleanArchitecture\\CleanArchitecture.Domain\\LeaveType.cs",
+              "RelativeToolTip": "CleanArchitecture.Domain\\LeaveType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T08:13:56.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GetLeaveTypeDetailsQueryHandler.cs",
+              "DocumentMoniker": "D:\\Dat\\CleanArchitecture\\CleanArchitecture\\CleanArchitecture.Application\\Features\\LeaveType\\Queries\\GetLeaveTypeDetails\\GetLeaveTypeDetailsQueryHandler.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Application\\Features\\LeaveType\\Queries\\GetLeaveTypeDetails\\GetLeaveTypeDetailsQueryHandler.cs",
+              "ToolTip": "D:\\Dat\\CleanArchitecture\\CleanArchitecture\\CleanArchitecture.Application\\Features\\LeaveType\\Queries\\GetLeaveTypeDetails\\GetLeaveTypeDetailsQueryHandler.cs",
+              "RelativeToolTip": "CleanArchitecture.Application\\Features\\LeaveType\\Queries\\GetLeaveTypeDetails\\GetLeaveTypeDetailsQueryHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T08:13:22.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LeaveTypeDetailsDto.cs",
+              "DocumentMoniker": "D:\\Dat\\CleanArchitecture\\CleanArchitecture\\CleanArchitecture.Application\\Features\\LeaveType\\Queries\\GetLeaveTypeDetails\\LeaveTypeDetailsDto.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Application\\Features\\LeaveType\\Queries\\GetLeaveTypeDetails\\LeaveTypeDetailsDto.cs",
+              "ToolTip": "D:\\Dat\\CleanArchitecture\\CleanArchitecture\\CleanArchitecture.Application\\Features\\LeaveType\\Queries\\GetLeaveTypeDetails\\LeaveTypeDetailsDto.cs",
+              "RelativeToolTip": "CleanArchitecture.Application\\Features\\LeaveType\\Queries\\GetLeaveTypeDetails\\LeaveTypeDetailsDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T08:13:03.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ILeaveTypeRepository.cs",
+              "DocumentMoniker": "D:\\Dat\\CleanArchitecture\\CleanArchitecture\\CleanArchitecture.Application\\Contracts\\ILeaveTypeRepository.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Application\\Contracts\\ILeaveTypeRepository.cs",
+              "ToolTip": "D:\\Dat\\CleanArchitecture\\CleanArchitecture\\CleanArchitecture.Application\\Contracts\\ILeaveTypeRepository.cs",
+              "RelativeToolTip": "CleanArchitecture.Application\\Contracts\\ILeaveTypeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T07:07:08.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ILeaveRequestRepository.cs",
+              "DocumentMoniker": "D:\\Dat\\CleanArchitecture\\CleanArchitecture\\CleanArchitecture.Application\\Contracts\\ILeaveRequestRepository.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Application\\Contracts\\ILeaveRequestRepository.cs",
+              "ToolTip": "D:\\Dat\\CleanArchitecture\\CleanArchitecture\\CleanArchitecture.Application\\Contracts\\ILeaveRequestRepository.cs",
+              "RelativeToolTip": "CleanArchitecture.Application\\Contracts\\ILeaveRequestRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T07:05:22.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GetLeaveTypesQueryHandler.cs",
+              "DocumentMoniker": "D:\\Dat\\CleanArchitecture\\CleanArchitecture\\CleanArchitecture.Application\\Features\\LeaveType\\Queries\\GetAllLeaveTypes\\GetLeaveTypesQueryHandler.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Application\\Features\\LeaveType\\Queries\\GetAllLeaveTypes\\GetLeaveTypesQueryHandler.cs",
+              "ToolTip": "D:\\Dat\\CleanArchitecture\\CleanArchitecture\\CleanArchitecture.Application\\Features\\LeaveType\\Queries\\GetAllLeaveTypes\\GetLeaveTypesQueryHandler.cs",
+              "RelativeToolTip": "CleanArchitecture.Application\\Features\\LeaveType\\Queries\\GetAllLeaveTypes\\GetLeaveTypesQueryHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T07:01:04.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GetLeaveTypesQuery.cs",
+              "DocumentMoniker": "D:\\Dat\\CleanArchitecture\\CleanArchitecture\\CleanArchitecture.Application\\Features\\LeaveType\\Queries\\GetAllLeaveTypes\\GetLeaveTypesQuery.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Application\\Features\\LeaveType\\Queries\\GetAllLeaveTypes\\GetLeaveTypesQuery.cs",
+              "ToolTip": "D:\\Dat\\CleanArchitecture\\CleanArchitecture\\CleanArchitecture.Application\\Features\\LeaveType\\Queries\\GetAllLeaveTypes\\GetLeaveTypesQuery.cs",
+              "RelativeToolTip": "CleanArchitecture.Application\\Features\\LeaveType\\Queries\\GetAllLeaveTypes\\GetLeaveTypesQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T06:52:43.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CleanArchitecture.Application",
+              "DocumentMoniker": "D:\\Dat\\CleanArchitecture\\CleanArchitecture\\CleanArchitecture.Application\\CleanArchitecture.Application.csproj",
+              "RelativeDocumentMoniker": "CleanArchitecture.Application\\CleanArchitecture.Application.csproj",
+              "ToolTip": "D:\\Dat\\CleanArchitecture\\CleanArchitecture\\CleanArchitecture.Application\\CleanArchitecture.Application.csproj",
+              "RelativeToolTip": "CleanArchitecture.Application\\CleanArchitecture.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-14T06:49:56.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LeaveTypeProfile.cs",
+              "DocumentMoniker": "D:\\Dat\\CleanArchitecture\\CleanArchitecture\\CleanArchitecture.Application\\MappingProfiles\\LeaveTypeProfile.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Application\\MappingProfiles\\LeaveTypeProfile.cs",
+              "ToolTip": "D:\\Dat\\CleanArchitecture\\CleanArchitecture\\CleanArchitecture.Application\\MappingProfiles\\LeaveTypeProfile.cs",
+              "RelativeToolTip": "CleanArchitecture.Application\\MappingProfiles\\LeaveTypeProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T06:28:07.53Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
